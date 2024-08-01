@@ -16,7 +16,7 @@ Hey there! I'm Snow, a tech enthusiast from Iowa who loves diving into Python, C
 - **Description:** A highly customizable theme for custom Discord clients like BetterDiscord, Vencord, and Replugged. Check out my custom fork [here!](https://github.com/BabyBoySnow/SnowVision)
 
 ## GitHub Activity 📈
-![Snow's GitHub Commit History](https://activity-graph.herokuapp.com/graph?username=babyboysnow&theme=github)
+[![Snow's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=babyboysnow&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Get In Touch
 - **Discord:** therealjustsnow
