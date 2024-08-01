@@ -1,4 +1,6 @@
-![Snow's GitHub Profile](https://media.giphy.com/media/Z3Y0EBcsvZ7bO/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/Z3Y0EBcsvZ7bO/giphy.gif" alt="Anime GIF">
+</p>
 
 # Welcome to My GitHub Profile!
 
