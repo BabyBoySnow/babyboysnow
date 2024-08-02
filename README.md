@@ -4,12 +4,12 @@
 
 # Welcome to My GitHub Profile!
 
-## Badges
+## My languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Black](https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=black&logoColor=white)
-
+![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
 ## What I'm Listening To
 [Lund Beats](https://youtube.com/@lundbeatz)
 
