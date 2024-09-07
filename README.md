@@ -12,7 +12,9 @@
 ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
 ## What I'm Listening To
 [Lund Beats](https://youtube.com/@lundbeatz)
-
+<p>
+  <img src="https://i1.sndcdn.com/avatars-000716674645-6bzd26-t1080x1080.jpg" alt="Lund jpg">
+</p>
 ---
 
 ![Snow's GitHub Stats](https://github-readme-stats.vercel.app/api?username=babyboysnow&show_icons=true&theme=dark&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
@@ -21,11 +23,11 @@
 Hey there! I'm Snow, a 25 year old tech enthusiast from Iowa who loves diving into Python, CSS, and video games. By day, I work in fast food, but by night, you can catch me on Discord, working on [ClearVision](https://github.com/ClearVision/ClearVision-v6) and [MusicBot](https://github.com/Just-Some-Bots/MusicBot).
 
 ## Projects
-### MusicBot 🤖
+### [MusicBot 🤖](https://github.com/Just-Some-Bots/MusicBot)
 - **Description:** A music-centered Discord bot written in Python.
 - **Repo:** [MusicBot](https://github.com/Just-Some-Bots/MusicBot)
 
-### ClearVision 🎨
+### [ClearVision 🎨](https://github.com/ClearVision/ClearVision-v6)
 - **Description:** A highly customizable theme for custom Discord clients like BetterDiscord, Vencord, and Replugged. Check out my custom fork [here!](https://github.com/BabyBoySnow/SnowVision)
 
 ## GitHub Activity 📈
