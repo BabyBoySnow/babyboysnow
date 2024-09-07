@@ -25,7 +25,6 @@ Hey there! I'm Snow, a 25 year old tech enthusiast from Iowa who loves diving in
 ## Projects
 ### [MusicBot 🤖](https://github.com/Just-Some-Bots/MusicBot)
 - **Description:** A music-centered Discord bot written in Python.
-- **Repo:** [MusicBot](https://github.com/Just-Some-Bots/MusicBot)
 
 ### [ClearVision 🎨](https://github.com/ClearVision/ClearVision-v6)
 - **Description:** A highly customizable theme for custom Discord clients like BetterDiscord, Vencord, and Replugged. Check out my custom fork [here!](https://github.com/BabyBoySnow/SnowVision)
