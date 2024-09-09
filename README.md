@@ -34,3 +34,10 @@ Hey there! I'm Snow, a 25 year old tech enthusiast from Iowa who loves diving in
 
 ## Get In Touch
 - **Discord:** therealjustsnow
+
+---
+If you'd like to support my work consider [buying me a coffee](https://buymeacoffee.com/justsnow) ☕
+---
+
+<p align="center">Thanks for reading 💜</p>
+
