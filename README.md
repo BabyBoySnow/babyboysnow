@@ -15,7 +15,6 @@
 <p>
   <img src="https://i1.sndcdn.com/avatars-000716674645-6bzd26-t1080x1080.jpg" alt="Lund jpg">
 </p>
----
 
 ![Snow's GitHub Stats](https://github-readme-stats.vercel.app/api?username=babyboysnow&show_icons=true&theme=dark&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
@@ -38,6 +37,5 @@ Hey there! I'm Snow, a 25 year old tech enthusiast from Iowa who loves diving in
 ---
 If you'd like to support my work consider [buying me a coffee](https://buymeacoffee.com/justsnow) ☕
 ---
-
 <p align="center">Thanks for reading 💜</p>
 
