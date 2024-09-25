@@ -11,8 +11,9 @@
 ![Black](https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=black&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white)
 
-# Listen to some music while you check out my stats
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/47r4IpO61ercoZlHnRta6n?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+## Listen to some music while you check out my stats
+[![Listen on Spotify](https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/47r4IpO61ercoZlHnRta6n)
+
 
 ## Metrics Dashboard 📊
 ![Metrics](https://github.com/babyboysnow/babyboysnow/blob/main/github-metrics.svg)
