@@ -82,30 +82,20 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base, repositories, history
 
-          #Music
-          plugin_music: yes
-          plugin_music_limit: 4
-          plugin_music_mode: playlist
-          plugin_music_playlist: https://open.spotify.com/playlist/47r4IpO61ercoZlHnRta6n
-          plugin_music_provider: spotify
-          plugin_music_time_range: short
-          plugin_music_top_type: tracks
-          plugin_music_user: gzfkm11r0c3ib3w28ed7i2hze
-
           #resp
           plugin_repositories: yes
           plugin_repositories_featured: ClearVision/ClearVision-v6, Just-Some-Bots/MusicBot
           plugin_repositories_order: featured, pinned, starred, random
 
           #Steam
-          plugin_steam: yes
-          plugin_steam_token: ${{ secrets.STEAM_KEY }}
-          plugin_steam_achievements_limit: 5
-          plugin_steam_games_limit: 3
-          plugin_steam_playtime_threshold: 2
-          plugin_steam_recent_games_limit: 5
-          plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: 76561198428584656
+          #plugin_steam: yes
+          #plugin_steam_token: ${{ secrets.STEAM_KEY }}
+          #plugin_steam_achievements_limit: 5
+          #plugin_steam_games_limit: 3
+          #plugin_steam_playtime_threshold: 2
+          #plugin_steam_recent_games_limit: 5
+          #plugin_steam_sections: player, most-played, recently-played
+          #plugin_steam_user: 76561198428584656
 
           #Include forks
           repositories_forks: yes
