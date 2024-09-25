@@ -1,0 +1,77 @@
+name: Metrics
+on:
+  # Schedule updates (every day at midmight)
+  schedule: [{cron: "0 0 * * *"}]
+  # Manually trigger the workflow and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: lowlighter/metrics@latest
+        with:
+          # GitHub token
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: babyboysnow
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: CST
+
+          # Introduction
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+
+          # IsoCalendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Languages
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+
+          # Lines of Code 
+          plugin_lines: yes
+          plugin_lines_days: 14
+
+          # Habits
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+
+          # Activity
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+
+          # Projects 
+          plugin_projects: yes
+
+          # Music
+          plugin_music: yes
+          plugin_music_mode: playlist
+          plugin_music_playlist: "https://open.spotify.com/playlist/47r4IpO61ercoZlHnRta6n?si=b43cea97493d422d"
+
+          # Steam
+          plugin_steam: yes
+          plugin_steam_id: "babyboysnow"
+
+          # Recent Activity
+          plugin_recent_activity: yes
+          plugin_recent_activity_limit: 5
