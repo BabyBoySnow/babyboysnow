@@ -90,7 +90,7 @@ jobs:
           plugin_music_playlist: https://open.spotify.com/playlist/47r4IpO61ercoZlHnRta6n?si=8232c191b3534704
           plugin_music_time_range: short
           plugin_music_top_type: tracks
-          plugin_music_user: winter_nekochan
+          plugin_music_user: gzfkm11r0c3ib3w28ed7i2hze
 
           #resp
           plugin_repositories: yes
@@ -99,12 +99,13 @@ jobs:
 
           #Steam
           plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_KEY }}
           plugin_steam_achievements_limit: 5
           plugin_steam_games_limit: 3
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 5
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: babyboysnow
+          plugin_steam_user: 76561198428584656
 
           #Include forks
           repositories_forks: yes
