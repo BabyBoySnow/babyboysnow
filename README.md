@@ -36,12 +36,7 @@
   [![](https://raw.githubusercontent.com/BabyBoySnow/babyboysnow/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/BabyBoySnow/babyboysnow/main/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
   ---
-
-  ## GitHub Activity 📈
-
-  [![Snow's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=babyboysnow&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  ---
+  
 
   ## Get In Touch
 
