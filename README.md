@@ -47,7 +47,9 @@
 
   ---
 
-  If you'd like to support my work, consider [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/justsnow) ☕
+  If you'd like to support my work
+
+  [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/justsnow)
 
   ---
 
