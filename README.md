@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
     <img src="https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=black&logoColor=white" alt="Black">
     <img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" alt="Batch">
-    <img src="https://github.com/babyboysnow/babyboysnow/workflows/Generate%20GitHub%20Profile%20Summary%20Cards/badge.svg" alt="Generate GitHub Profile Summary Cards">
+    <img src="https://img.shields.io/badge/Generate%20GitHub%20Profile%20Summary%20Cards-Passing-brightgreen?style=for-the-badge" alt="Generate GitHub Profile Summary Cards">
     <img src="https://img.shields.io/badge/OS-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="OS: Windows">
 
   </p>
