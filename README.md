@@ -27,6 +27,7 @@
   ---
 
   ## Listen to Some Music While You Check Out My Stats 🎵
+  Check out my favorite playlist on Spotify while you explore my GitHub profile! 
 
   [![Listen on Spotify](https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/47r4IpO61ercoZlHnRta6n)
 
@@ -37,8 +38,13 @@
   [![](https://raw.githubusercontent.com/BabyBoySnow/babyboysnow/main/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![](https://raw.githubusercontent.com/BabyBoySnow/babyboysnow/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/BabyBoySnow/babyboysnow/main/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![](https://raw.githubusercontent.com/BabyBoySnow/babyboysnow/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/BabyBoySnow/babyboysnow/main/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+  
+  ### Metrics
+  ![Metrics](https://metrics.lecoq.io/Snow?template=classic&isocalendar=1&habits=1&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&habits=false&habits.from=400&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=graph&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=all&notable.repositories=false&notable.indepth=true&notable.types=issue%2C%20pull_request%2C%20commit&notable.self=true&config.timezone=America%2FChicago)
   ---
+
+  ## Achievements 🏆
+  - Contributed to [ClearVision](https://github.com/ClearVision/ClearVision-v6) and [MusicBot](https://github.com/Just-Some-Bots/MusicBot).
 
 
   ## Get In Touch
