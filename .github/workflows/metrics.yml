@@ -20,6 +20,7 @@ jobs:
           user: BabyBoySnow
           template: classic
           base: header, activity, community, repositories, metadata
+          base_indepth: yes
           config_timezone: America/Chicago
 
           #achievements
@@ -29,18 +30,18 @@ jobs:
           plugin_achievements_threshold: C
 
           #Recent Activity
-          plugin_activity: no
+          plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
-          plugin_activity_load: 300
+          plugin_activity_load: 400
           plugin_activity_timestamps: yes
           plugin_activity_visibility: all
 
           #Discussion followup
-          plugin_followup: no
-          plugin_followup_archived: yes
-          plugin_followup_sections: base, repositories, history
+          #plugin_followup: no
+          #plugin_followup_archived: yes
+          #plugin_followup_sections: base, repositories, history
 
           #Coding Habits
           plugin_habits: yes
@@ -58,29 +59,29 @@ jobs:
 
           #Coding commit calendar
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
 
           #Languages used
-          plugin_languages: no
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 8
-          plugin_languages_other: yes
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+          #plugin_languages: no
+          #plugin_languages_analysis_timeout: 15
+          #plugin_languages_analysis_timeout_repositories: 7.5
+          #plugin_languages_categories: markup, programming
+          #plugin_languages_colors: github
+          #plugin_languages_indepth: yes
+          #plugin_languages_limit: 8
+          #plugin_languages_other: yes
+          #plugin_languages_recent_categories: markup, programming
+          #plugin_languages_recent_days: 14
+          #plugin_languages_recent_load: 300
+          #plugin_languages_sections: most-used
+          #plugin_languages_threshold: 0%
 
           #Lines changed overtime
-          plugin_lines: no
-          plugin_lines_delay: 5
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base, repositories, history
+          #plugin_lines: no
+          #plugin_lines_delay: 5
+          #plugin_lines_history_limit: 1
+          #plugin_lines_repositories_limit: 4
+          #plugin_lines_sections: base, repositories, history
 
           #resp
           plugin_repositories: no
@@ -88,22 +89,39 @@ jobs:
           plugin_repositories_order: featured, pinned, starred, random
 
           #Steam
-          plugin_steam: no
-          plugin_steam_token: ${{ secrets.STEAM_KEY }}
-          plugin_steam_achievements_limit: 5
-          plugin_steam_games_limit: 3
-          plugin_steam_playtime_threshold: 2
-          plugin_steam_recent_games_limit: 5
-          plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: 76561198428584656
+          #plugin_steam: no
+          #plugin_steam_token: ${{ secrets.STEAM_KEY }}
+          #plugin_steam_achievements_limit: 5
+          #plugin_steam_games_limit: 3
+          #plugin_steam_playtime_threshold: 2
+          #plugin_steam_recent_games_limit: 5
+          #plugin_steam_sections: player, most-played, recently-played
+          #plugin_steam_user: 76561198428584656
 
           #Include forks
           repositories_forks: yes
+          repositories_affiliations: ""
 
           #Notable contributions
           plugin_notable: yes
           plugin_notable_filter: stars, forks, watchers, commits, commits.user, commits.user%, maintainer
           plugin_notable_from: all
+          plugin_notable_self: no
           plugin_notable_repositories: yes
           plugin_notable_indepth: yes
           plugin_notable_types: issue, pull_request, commit
+
+          #Github Skyline
+          plugin_skyline: yes
+          plugin_skyline_compatibility: yes
+          plugin_skyline_frames: 120
+          plugin_skyline_quality: 1
+          plugin_skyline_settings: >
+            {
+              "url": "https://skyline.github.com/${login}/${year}",
+              "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
+              "wait": 1,
+              "hide": "button, footer, a"
+            }
+
+          plugin_skyline_year: 2024
