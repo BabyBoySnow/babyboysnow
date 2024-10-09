@@ -5,6 +5,7 @@
   <img src="https://media.giphy.com/media/Z3Y0EBcsvZ7bO/giphy.gif" alt="Anime GIF">
 
   ---
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/justsnow)
 
   **About me:**  
   Hey there! I'm Snow, a 25-year-old tech enthusiast from Iowa who loves diving into Python, CSS, and video games. By day, I work in fast food, but by night, you can catch me on Discord, working on [ClearVision](https://github.com/ClearVision/ClearVision-v6) and [MusicBot](https://github.com/Just-Some-Bots/MusicBot).
@@ -49,13 +50,7 @@
 
   ## Get In Touch
 
-  - **Discord:** therealjustsnow
-
-  ---
-
-  If you'd like to support my work
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/justsnow)
+  **Discord:** therealjustsnow
 
   ---
 
