@@ -55,7 +55,7 @@
 
   If you'd like to support my work
 
-  [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/justsnow)
+[![ko-fi](https://ko-fi.com/img/githubbutton_md.svg)](https://ko-fi.com/justsnow)
 
   ---
 
