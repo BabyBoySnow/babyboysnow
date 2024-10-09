@@ -55,7 +55,7 @@
 
   If you'd like to support my work
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_md.svg)](https://ko-fi.com/justsnow)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/justsnow)
 
   ---
 
