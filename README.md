@@ -8,7 +8,7 @@
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/justsnow)
 
   **About me:**  
-  Hey there! I'm Snow, a 25-year-old tech enthusiast from Iowa who loves diving into Python, CSS, and video games. By day, I work in fast food, but by night, you can catch me on Discord, working on [ClearVision](https://github.com/ClearVision/ClearVision-v6) and [MusicBot](https://github.com/Just-Some-Bots/MusicBot).
+  Hey there! I'm Snow, a 26-year-old tech enthusiast from Iowa who loves diving into Python, CSS, and video games. By day, I work in fast food, but by night, you can catch me on Discord, working on [ClearVision](https://github.com/ClearVision/ClearVision-v6) and [MusicBot](https://github.com/Just-Some-Bots/MusicBot).
 
   ---
 
