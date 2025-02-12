@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
     <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
     <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="Github Actions">
+    <img src="https://img.shields.io/badge/GitHub_Desktop-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Github Desktop">
   </p>
 
   ---
