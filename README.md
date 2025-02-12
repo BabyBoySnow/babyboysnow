@@ -12,24 +12,33 @@
 
   ---
 
-  ## Stuff I Use
+  ## Languages
 
   <p>
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
     <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
     <img src="https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=black&logoColor=white" alt="Black">
     <img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" alt="Batch">
+  </p>
+  ---
+
+  ## Development Tools
+  <p>
     <img src="https://img.shields.io/badge/Generate%20GitHub%20Profile%20Summary%20Cards-Passing-brightgreen?style=for-the-badge" alt="Generate GitHub Profile Summary Cards">
-    <img src="https://img.shields.io/badge/OS-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="OS: Windows">
+    <img src="https://img.shields.io/badge/OS-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="OS: Windows 11">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+    <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+    <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="Github Actions">
   </p>
 
   ---
 
   ## Listen to Some Music While You Check Out My Stats 🎵
-  Check out my favorite playlist on Spotify while you explore my GitHub profile! 
+  Listen to my favorite songs while you check out my stats!
 
-  [![Listen on Spotify](https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/47r4IpO61ercoZlHnRta6n)
+  [![Listen on YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/playlist?list=PLi8Ca0H-BLi6VZkC6Sab-vFouBBBuEPJj&si=I_x8S6zT6M209-SX)
 
   ---
 
