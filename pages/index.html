@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="preload" href="https://raw.githubusercontent.com/BabyBoySnow/babyboysnow/main/profile-summary-card-output/algolia/0-profile-details.svg" as="image">
+    <link rel="preload" href="https://raw.githubusercontent.com/BabyBoySnow/babyboysnow/main/profile-summary-card-output/algolia/2-most-commit-language.svg" as="image">
+    <link rel="preload" href="https://raw.githubusercontent.com/BabyBoySnow/babyboysnow/main/profile-summary-card-output/algolia/3-stats.svg" as="image">
+    <link rel="preload" href="https://raw.githubusercontent.com/BabyBoySnow/babyboysnow/main/profile-summary-card-output/algolia/4-productive-time.svg" as="image">    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Snow's Website</title>
@@ -19,15 +23,22 @@
 
         <!-- Slideshow Container -->
         <div class="slideshow">
-            <img src="https://raw.githubusercontent.com/BabyBoySnow/babyboysnow/main/profile-summary-card-output/algolia/0-profile-details.svg" class="slide active">
-            <img src="https://raw.githubusercontent.com/BabyBoySnow/babyboysnow/main/profile-summary-card-output/algolia/2-most-commit-language.svg" class="slide">
-            <img src="https://raw.githubusercontent.com/BabyBoySnow/babyboysnow/main/profile-summary-card-output/algolia/3-stats.svg" class="slide">
-            <img src="https://raw.githubusercontent.com/BabyBoySnow/babyboysnow/main/profile-summary-card-output/algolia/4-productive-time.svg" class="slide">
+            <img src="https://raw.githubusercontent.com/BabyBoySnow/babyboysnow/main/profile-summary-card-output/algolia/0-profile-details.svg" class="slide active" loading="lazy">
+            <img src="https://raw.githubusercontent.com/BabyBoySnow/babyboysnow/main/profile-summary-card-output/algolia/2-most-commit-language.svg" class="slide" loading="lazy">
+            <img src="https://raw.githubusercontent.com/BabyBoySnow/babyboysnow/main/profile-summary-card-output/algolia/3-stats.svg" class="slide" loading="lazy">
+            <img src="https://raw.githubusercontent.com/BabyBoySnow/babyboysnow/main/profile-summary-card-output/algolia/4-productive-time.svg" class="slide" loading="lazy">
         </div>
 
         <button id="prev">⏪</button>
         <button id="next">⏩</button>
     </div>
+
+<!-- GitHub Metrics -->
+<div class="metrics-container">
+    <h2>GitHub Metrics</h2>
+    <img src="https://raw.githubusercontent.com/babyboysnow/babyboysnow/main/github-metrics.svg" alt="GitHub Metrics" class="metrics-img">
+</div>
+
 
     <script src="script.js"></script>
 </body>
