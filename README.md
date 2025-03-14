@@ -61,7 +61,7 @@
 
   ## Get In Touch
 
-  **Discord:** therealjustsnow
+  **Discord:** [therealjustsnow](<https://discord.com/users/335677038830682112>)
 
   ---
 
