@@ -8,7 +8,9 @@
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/justsnow)
 
   **About me:**  
-  Hey there! I'm Snow, a 26-year-old tech enthusiast from Iowa who loves diving into Python, CSS, and video games. By day, I work in fast food, but by night, you can catch me on Discord, working on [ClearVision](https://github.com/ClearVision/ClearVision-v6) and [MusicBot](https://github.com/Just-Some-Bots/MusicBot).
+  Hi, I’m Snow — a 26-year-old developer from Iowa with a passion for building sleek, functional tools for Discord and beyond. I’m currently maintaining [Aquarion](https://github.com/Aquarion-D/Aquarion) and contributing to [MusicBot](https://github.com/Just-Some-Bots/MusicBot).
+
+  I previously helped develop [ClearVision v6](https://github.com/ClearVision/ClearVision-v6), one of the most downloaded BetterDiscord themes, and later forked it to build a more customizable version with a modern approach. Always exploring new ways to blend design and functionality.
 
   ---
 
@@ -20,6 +22,7 @@
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
     <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
     <img src="https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" alt="Batch">
+    <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
   </p>
   
   ---
@@ -33,6 +36,7 @@
     <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="Github Actions">
     <img src="https://img.shields.io/badge/GitHub_Desktop-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Github Desktop">
     <img src="https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=black&logoColor=white" alt="Black">
+    <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=for-the-badge" alt="Prettier">
   </p>
 
   ---
