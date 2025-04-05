@@ -36,7 +36,8 @@
     <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="Github Actions">
     <img src="https://img.shields.io/badge/GitHub_Desktop-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="Github Desktop">
     <img src="https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=black&logoColor=white" alt="Black">
-    <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=for-the-badge" alt="Prettier">
+    <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=for-the-badge&logo=prettier&logoColor=white" alt="Prettier">
+
   </p>
 
   ---
